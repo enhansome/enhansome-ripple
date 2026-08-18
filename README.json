@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T21:42:54Z",
+            "last_commit": "2026-08-18T21:40:56Z",
             "owner": "XRPLF",
             "repo": "rippled",
-            "stars": 5184
+            "stars": 5185
           }
         },
         {
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:55:38Z",
+            "last_commit": "2026-08-18T17:29:11Z",
             "owner": "XRPLF",
             "repo": "xrpl.js",
             "stars": 1325
@@ -485,7 +485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:05:26.604Z",
+    "last_updated": "2026-08-18T22:02:01.967Z",
     "original_repository": "vhpoet/awesome-ripple",
     "original_repository_sha": "2e6ecb224040102b259d08315050b2f01233c31c",
     "enhanced_repository": "enhansome/enhansome-ripple",
