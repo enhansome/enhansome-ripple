@@ -1,492 +1,507 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rippled",
+              "description": "Ripple peer-to-peer network daemon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2724167,
+                "language": "C++",
+                "last_commit": "2026-08-19T10:16:52Z",
+                "owner": "XRPLF",
+                "repo": "rippled",
+                "stars": 5185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rippled Docker container (node)",
+              "description": "Docker hub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120847522,
+                "language": "Shell",
+                "last_commit": "2026-08-07T05:38:52Z",
+                "owner": "WietseWind",
+                "repo": "docker-xrpld",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rippled Docker container (validator)",
+              "description": "Docker hub - Tutorial",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120738382,
+                "language": "Shell",
+                "last_commit": "2022-01-04T21:39:11Z",
+                "owner": "WietseWind",
+                "repo": "docker-rippled-validator",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rippled - The Guy!"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ripple-lib",
+              "description": "Java Script",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9681561,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T17:29:11Z",
+                "owner": "XRPLF",
+                "repo": "xrpl.js",
+                "stars": 1325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-lib-java",
+              "description": "Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12962336,
+                "language": "Java",
+                "last_commit": "2017-02-21T10:54:42Z",
+                "owner": "ripple-unmaintained",
+                "repo": "ripple-lib-java",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rubblelabs/ripple",
+              "description": "Go packages to interact with the Ripple protocol",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20294364,
+                "language": "Go",
+                "last_commit": "2024-03-24T12:18:53Z",
+                "owner": "rubblelabs",
+                "repo": "ripple",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-rest",
+              "description": "A RESTful API for submitting payments and monitoring accounts on the Ripple Network",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16561603,
+                "language": "JavaScript",
+                "last_commit": "2023-04-07T10:17:01Z",
+                "owner": "ripple",
+                "repo": "ripple-rest",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-python",
+              "description": "Python Lib",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15717310,
+                "language": "Python",
+                "last_commit": "2018-01-03T10:25:24Z",
+                "owner": "miracle2k",
+                "repo": "ripple-python",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-python-lib",
+              "description": "Python implementation of JSON-RPC and Data API calls",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 147237090,
+                "language": "Python",
+                "last_commit": "2023-08-20T14:58:51Z",
+                "owner": "arsenlosenko",
+                "repo": "python-ripple-lib",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-libpp",
+              "description": "C++ Standalone RCL-compatible transaction signing and serialization library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66310754,
+                "language": "C++",
+                "last_commit": "2021-01-14T14:13:57Z",
+                "owner": "ripple",
+                "repo": "ripple-libpp",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-lib-ruby",
+              "description": "Ruby",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14187691,
+                "language": "Ruby",
+                "last_commit": "2014-01-07T00:39:05Z",
+                "owner": "kevinejohn",
+                "repo": "ripple-lib-rpc-ruby",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RippleKit",
+              "description": "Swift",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 97887651,
+                "language": "Swift",
+                "last_commit": "2017-08-04T18:24:46Z",
+                "owner": "xasos",
+                "repo": "RippleKit",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-haskell",
+              "description": "Haskell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9570851,
+                "language": "Haskell",
+                "last_commit": "2015-07-04T21:30:41Z",
+                "owner": "singpolyma",
+                "repo": "ripple-haskell",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libs - Libraries for talking to the Ripple API"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ripple-client",
+              "description": "Web client",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 6248414,
+                "language": "JavaScript",
+                "last_commit": "2023-05-04T08:09:31Z",
+                "owner": "ripple",
+                "repo": "ripple-client",
+                "stars": 1356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-client-desktop",
+              "description": "Desktop client",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25710942,
+                "language": "JavaScript",
+                "last_commit": "2016-11-02T17:24:40Z",
+                "owner": "ripple",
+                "repo": "ripple-client-desktop",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripplectron",
+              "description": "Desktop client for Electron",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98654734,
+                "language": "JavaScript",
+                "last_commit": "2017-11-28T09:34:58Z",
+                "owner": "devjin0617",
+                "repo": "ripplectron",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripplecharts",
+              "description": "RippleCharts.com Charting Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10594566,
+                "language": "JavaScript",
+                "last_commit": "2015-04-23T18:21:08Z",
+                "owner": "ripple-unmaintained",
+                "repo": "ripplecharts",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-client-ios",
+              "description": "iOS client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14247737,
+                "language": "Objective-C",
+                "last_commit": "2014-06-10T20:00:51Z",
+                "owner": "ripple-unmaintained",
+                "repo": "ripple-client-ios",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-graph",
+              "description": "Ripple graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8103102,
+                "language": "JavaScript",
+                "last_commit": "2014-10-08T23:37:34Z",
+                "owner": "ripple-unmaintained",
+                "repo": "ripple-graph",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clients / Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rippled-historical-database",
+              "description": "SQL database as a canonical source of historical data in Ripple",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22237229,
+                "language": "JavaScript",
+                "last_commit": "2023-11-23T18:07:29Z",
+                "owner": "ripple",
+                "repo": "rippled-historical-database",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-data-api",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17228368,
+                "language": "JavaScript",
+                "last_commit": "2015-11-24T19:20:16Z",
+                "owner": "ripple",
+                "repo": "ripple-data-api",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ripple-blobvault",
+              "description": "Server for storing persistent data for Ripple clients",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6258339,
+                "language": "JavaScript",
+                "last_commit": "2023-11-23T18:26:41Z",
+                "owner": "ripple",
+                "repo": "ripple-blobvault",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripple Gen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9333789,
+                "language": "C++",
+                "last_commit": "2013-04-11T03:19:37Z",
+                "owner": "CodeShark",
+                "repo": "RippleGen",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rubblelabs/tx",
+              "description": "Tool for executing transactions on the Ripple network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21583515,
+                "language": "Go",
+                "last_commit": "2015-05-03T17:05:07Z",
+                "owner": "rubblelabs",
+                "repo": "tx",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "federation-php",
+              "description": "Simple PHP federation endpoint with a static JSON dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11554720,
+                "language": "PHP",
+                "last_commit": "2013-11-08T22:44:04Z",
+                "owner": "ripple-unmaintained",
+                "repo": "federation-php",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripple Checkout",
+              "description": "An embeddable widget for paying with Ripple.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16403192,
+                "language": null,
+                "last_commit": "2014-02-01T01:27:03Z",
+                "owner": "emschwartz",
+                "repo": "ripple-donate-widget",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "federation-python",
+              "description": "Python module for a simple federation endpoint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15032011,
+                "language": "Python",
+                "last_commit": "2014-06-24T21:28:59Z",
+                "owner": "miracle2k",
+                "repo": "ripple-federation-python",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripple Rails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9229949,
+                "language": "Ruby",
+                "last_commit": "2013-04-26T12:41:01Z",
+                "owner": "singpolyma",
+                "repo": "ripple-rails",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
       "title": "Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "rippled",
-          "description": "Ripple peer-to-peer network daemon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T21:40:56Z",
-            "owner": "XRPLF",
-            "repo": "rippled",
-            "stars": 5185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rippled Docker container (node)",
-          "description": "Docker hub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-07T05:38:52Z",
-            "owner": "WietseWind",
-            "repo": "docker-xrpld",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rippled Docker container (validator)",
-          "description": "Docker hub - Tutorial",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-01-04T21:39:11Z",
-            "owner": "WietseWind",
-            "repo": "docker-rippled-validator",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Rippled - The Guy!"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ripple-lib",
-          "description": "Java Script",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:29:11Z",
-            "owner": "XRPLF",
-            "repo": "xrpl.js",
-            "stars": 1325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-lib-java",
-          "description": "Java",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-02-21T10:54:42Z",
-            "owner": "ripple-unmaintained",
-            "repo": "ripple-lib-java",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rubblelabs/ripple",
-          "description": "Go packages to interact with the Ripple protocol",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-03-24T12:18:53Z",
-            "owner": "rubblelabs",
-            "repo": "ripple",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-rest",
-          "description": "A RESTful API for submitting payments and monitoring accounts on the Ripple Network",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-04-07T10:17:01Z",
-            "owner": "ripple",
-            "repo": "ripple-rest",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-python",
-          "description": "Python Lib",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-03T10:25:24Z",
-            "owner": "miracle2k",
-            "repo": "ripple-python",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-python-lib",
-          "description": "Python implementation of JSON-RPC and Data API calls",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-08-20T14:58:51Z",
-            "owner": "arsenlosenko",
-            "repo": "python-ripple-lib",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-libpp",
-          "description": "C++ Standalone RCL-compatible transaction signing and serialization library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-01-14T14:13:57Z",
-            "owner": "ripple",
-            "repo": "ripple-libpp",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-lib-ruby",
-          "description": "Ruby",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-01-07T00:39:05Z",
-            "owner": "kevinejohn",
-            "repo": "ripple-lib-rpc-ruby",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RippleKit",
-          "description": "Swift",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2017-08-04T18:24:46Z",
-            "owner": "xasos",
-            "repo": "RippleKit",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-haskell",
-          "description": "Haskell",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2015-07-04T21:30:41Z",
-            "owner": "singpolyma",
-            "repo": "ripple-haskell",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Libs - Libraries for talking to the Ripple API"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ripple-client",
-          "description": "Web client",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-05-04T08:09:31Z",
-            "owner": "ripple",
-            "repo": "ripple-client",
-            "stars": 1356
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-client-desktop",
-          "description": "Desktop client",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-11-02T17:24:40Z",
-            "owner": "ripple",
-            "repo": "ripple-client-desktop",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ripplectron",
-          "description": "Desktop client for Electron",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-11-28T09:34:58Z",
-            "owner": "devjin0617",
-            "repo": "ripplectron",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripplecharts",
-          "description": "RippleCharts.com Charting Website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-04-23T18:21:08Z",
-            "owner": "ripple-unmaintained",
-            "repo": "ripplecharts",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-client-ios",
-          "description": "iOS client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2014-06-10T20:00:51Z",
-            "owner": "ripple-unmaintained",
-            "repo": "ripple-client-ios",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-graph",
-          "description": "Ripple graph",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2014-10-08T23:37:34Z",
-            "owner": "ripple-unmaintained",
-            "repo": "ripple-graph",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snow",
-          "description": "Digital currency exchange engine written in node.js.",
-          "children": []
-        }
-      ],
-      "title": "Clients / Apps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rippled-historical-database",
-          "description": "SQL database as a canonical source of historical data in Ripple",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-23T18:07:29Z",
-            "owner": "ripple",
-            "repo": "rippled-historical-database",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-data-api",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RippleGen",
+              "description": "A simple multithreaded vanity generator for the ripple p2p network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9333789,
+                "language": "C++",
+                "last_commit": "2013-04-11T03:19:37Z",
+                "owner": "CodeShark",
+                "repo": "RippleGen",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripple Helpers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10525166,
+                "language": "AppleScript",
+                "last_commit": "2014-01-21T19:22:47Z",
+                "owner": "vhpoet",
+                "repo": "ripple-helpers",
+                "stars": 5
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2015-11-24T19:20:16Z",
-            "owner": "ripple",
-            "repo": "ripple-data-api",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-blobvault",
-          "description": "Server for storing persistent data for Ripple clients",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-23T18:26:41Z",
-            "owner": "ripple",
-            "repo": "ripple-blobvault",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ripple Gen",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2013-04-11T03:19:37Z",
-            "owner": "CodeShark",
-            "repo": "RippleGen",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rubblelabs/tx",
-          "description": "Tool for executing transactions on the Ripple network",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2015-05-03T17:05:07Z",
-            "owner": "rubblelabs",
-            "repo": "tx",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "federation-php",
-          "description": "Simple PHP federation endpoint with a static JSON dataset",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2013-11-08T22:44:04Z",
-            "owner": "ripple-unmaintained",
-            "repo": "federation-php",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ripple Checkout",
-          "description": "An embeddable widget for paying with Ripple.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2014-02-01T01:27:03Z",
-            "owner": "emschwartz",
-            "repo": "ripple-donate-widget",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "federation-python",
-          "description": "Python module for a simple federation endpoint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-06-24T21:28:59Z",
-            "owner": "miracle2k",
-            "repo": "ripple-federation-python",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ripple Rails",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2013-04-26T12:41:01Z",
-            "owner": "singpolyma",
-            "repo": "ripple-rails",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gatewayd",
-          "description": "Ripple gateway software automation framework",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "ripple-authd",
-          "description": "Ripple peer-assisted key derivation server",
-          "children": []
+          "node_type": "group",
+          "title": "Other tools"
         }
       ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Hosted Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RippleGen",
-          "description": "A simple multithreaded vanity generator for the ripple p2p network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2013-04-11T03:19:37Z",
-            "owner": "CodeShark",
-            "repo": "RippleGen",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ripple Helpers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AppleScript",
-            "last_commit": "2014-01-21T19:22:47Z",
-            "owner": "vhpoet",
-            "repo": "ripple-helpers",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Other tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:02:01.967Z",
+    "last_updated": "2026-08-19T12:55:10.600Z",
     "original_repository": "vhpoet/awesome-ripple",
+    "original_repository_id": 14434679,
     "original_repository_sha": "2e6ecb224040102b259d08315050b2f01233c31c",
     "enhanced_repository": "enhansome/enhansome-ripple",
     "enhanced_repository_description": null,
