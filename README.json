@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 2724167,
                 "language": "C++",
-                "last_commit": "2026-08-21T21:51:20Z",
+                "last_commit": "2026-08-22T19:30:22Z",
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5186
+                "stars": 5187
               }
             },
             {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:03:50.812Z",
+    "last_updated": "2026-08-22T22:01:28.090Z",
     "original_repository": "vhpoet/awesome-ripple",
     "original_repository_id": 14434679,
     "original_repository_sha": "2e6ecb224040102b259d08315050b2f01233c31c",
