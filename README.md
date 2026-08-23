@@ -56,7 +56,7 @@ Pull requests are more than welcome.
 
 ###### Rippled - The Guy!
 
-* [rippled](https://github.com/ripple/rippled/) ⭐ 5,187 | 🐛 953 | 🌐 C++ | 📅 2026-08-22: Ripple peer-to-peer network daemon
+* [rippled](https://github.com/ripple/rippled/) ⭐ 5,189 | 🐛 953 | 🌐 C++ | 📅 2026-08-22: Ripple peer-to-peer network daemon
 * [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) ⭐ 76 | 🐛 1 | 🌐 Shell | 📅 2026-08-07 - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 * [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) ⭐ 24 | 🐛 0 | 🌐 Shell | 📅 2022-01-04 - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
@@ -166,4 +166,4 @@ Pull requests are more than welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

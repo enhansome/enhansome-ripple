@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T19:30:22Z",
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5187
+                "stars": 5189
               }
             },
             {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:01:28.090Z",
+    "last_updated": "2026-08-23T22:01:14.999Z",
     "original_repository": "vhpoet/awesome-ripple",
     "original_repository_id": 14434679,
     "original_repository_sha": "2e6ecb224040102b259d08315050b2f01233c31c",
