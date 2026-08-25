@@ -62,7 +62,7 @@ Pull requests are more than welcome.
 
 ###### Libs - Libraries for talking to the Ripple API
 
-* [ripple-lib](https://github.com/ripple/ripple-lib/) ⭐ 1,326 | 🐛 249 | 🌐 TypeScript | 📅 2026-08-25: Java Script
+* [ripple-lib](https://github.com/ripple/ripple-lib/) ⭐ 1,326 | 🐛 246 | 🌐 TypeScript | 📅 2026-08-25: Java Script
 * [ripple-lib-java](https://github.com/ripple/ripple-lib-java/) ⭐ 128 | 🐛 36 | 🌐 Java | 📅 2017-02-21: Java
 * [rubblelabs/ripple](https://github.com/rubblelabs/ripple) ⚠️ Archived: Go packages to interact with the Ripple protocol
 * [ripple-rest](https://github.com/ripple/ripple-rest) ⚠️ Archived: A RESTful API for submitting payments and monitoring accounts on the Ripple Network
