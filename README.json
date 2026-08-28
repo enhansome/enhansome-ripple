@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 2724167,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:57:29Z",
+                "last_commit": "2026-08-28T01:22:29Z",
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5190
-              }
+                "stars": 5191
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "WietseWind",
                 "repo": "docker-xrpld",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "WietseWind",
                 "repo": "docker-rippled-validator",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             }
           ],
           "description": null,
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 9681561,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T18:58:48Z",
+                "last_commit": "2026-08-27T21:31:01Z",
                 "owner": "XRPLF",
                 "repo": "xrpl.js",
-                "stars": 1327
-              }
+                "stars": 1328
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-lib-java",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "rubblelabs",
                 "repo": "ripple",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ripple",
                 "repo": "ripple-rest",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "miracle2k",
                 "repo": "ripple-python",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "arsenlosenko",
                 "repo": "python-ripple-lib",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "ripple",
                 "repo": "ripple-libpp",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "kevinejohn",
                 "repo": "ripple-lib-rpc-ruby",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "xasos",
                 "repo": "RippleKit",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "singpolyma",
                 "repo": "ripple-haskell",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "ripple",
                 "repo": "ripple-client",
                 "stars": 1356
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "ripple",
                 "repo": "ripple-client-desktop",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "devjin0617",
                 "repo": "ripplectron",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "ripple-unmaintained",
                 "repo": "ripplecharts",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-client-ios",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-graph",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             }
           ],
           "description": null,
@@ -324,7 +343,8 @@
                 "owner": "ripple",
                 "repo": "rippled-historical-database",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "ripple",
                 "repo": "ripple-data-api",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "ripple",
                 "repo": "ripple-blobvault",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "CodeShark",
                 "repo": "RippleGen",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "rubblelabs",
                 "repo": "tx",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "ripple-unmaintained",
                 "repo": "federation-php",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "emschwartz",
                 "repo": "ripple-donate-widget",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "miracle2k",
                 "repo": "ripple-federation-python",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "singpolyma",
                 "repo": "ripple-rails",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             }
           ],
           "description": null,
@@ -472,7 +500,8 @@
                 "owner": "pmarches",
                 "repo": "jStellarAPI",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             }
           ],
           "description": null,
@@ -494,7 +523,8 @@
                 "owner": "CodeShark",
                 "repo": "RippleGen",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "vhpoet",
                 "repo": "ripple-helpers",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
             }
           ],
           "description": null,
@@ -521,7 +552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:57.657Z",
+    "last_updated": "2026-08-28T05:50:20.546Z",
     "original_repository_info": {
       "archived": false,
       "id": 14434679,
