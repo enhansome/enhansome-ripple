@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++",
+                "homepage": "https://xrpl.org",
                 "id": 2724167,
                 "language": "C++",
+                "license": "ISC",
                 "last_commit": "2026-08-29T00:18:16Z",
+                "open_issues": 961,
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5190
+                "stars": 5190,
+                "topics": [
+                  "blockchain",
+                  "c-plus-plus",
+                  "cplusplus",
+                  "cryptography",
+                  "xrp",
+                  "xrp-ledger",
+                  "xrpl"
+                ]
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -28,12 +41,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run XRP Ledger (xrpld, formerly rippled) node in a Docker container",
+                "homepage": "https://hub.docker.com/r/xrpllabsofficial/xrpld",
                 "id": 120847522,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-07T05:38:52Z",
+                "open_issues": 1,
                 "owner": "WietseWind",
                 "repo": "docker-xrpld",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "xrp-ledger"
+                ]
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -44,12 +64,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run a Ripple XRP (rippled) validator in a Docker container",
+                "homepage": "https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77",
                 "id": 120738382,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-01-04T21:39:11Z",
+                "open_issues": 0,
                 "owner": "WietseWind",
                 "repo": "docker-rippled-validator",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "xrp-ledger"
+                ]
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             }
@@ -67,12 +94,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript/TypeScript API for interacting with the XRP Ledger in Node.js and the browser",
+                "homepage": "https://xrpl.org/",
                 "id": 9681561,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-27T21:31:01Z",
+                "open_issues": 246,
                 "owner": "XRPLF",
                 "repo": "xrpl.js",
-                "stars": 1328
+                "stars": 1328,
+                "topics": [
+                  "api",
+                  "blockchain",
+                  "crypto",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "javascript",
+                  "nodejs",
+                  "ripple",
+                  "rippleapi",
+                  "typescript",
+                  "xrp",
+                  "xrp-ledger",
+                  "xrpl",
+                  "xrpljs"
+                ]
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -83,12 +130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java version of ripple-lib (work in progress)",
+                "homepage": null,
                 "id": 12962336,
                 "language": "Java",
+                "license": "ISC",
                 "last_commit": "2017-02-21T10:54:42Z",
+                "open_issues": 36,
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-lib-java",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -99,12 +151,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Go packages to interact with the Ripple protocol",
+                "homepage": "https://godoc.org/github.com/rubblelabs/ripple",
                 "id": 20294364,
                 "language": "Go",
+                "license": "ISC",
                 "last_commit": "2024-03-24T12:18:53Z",
+                "open_issues": 13,
                 "owner": "rubblelabs",
                 "repo": "ripple",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -115,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A RESTful API for submitting payments and monitoring accounts on the Ripple Network",
+                "homepage": null,
                 "id": 16561603,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-04-07T10:17:01Z",
+                "open_issues": 2,
                 "owner": "ripple",
                 "repo": "ripple-rest",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -131,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ripple-related routines in Python. Might become a proper client library later.",
+                "homepage": null,
                 "id": 15717310,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-01-03T10:25:24Z",
+                "open_issues": 6,
                 "owner": "miracle2k",
                 "repo": "ripple-python",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -147,12 +214,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python client for the Ripple API",
+                "homepage": null,
                 "id": 147237090,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-20T14:58:51Z",
+                "open_issues": 3,
                 "owner": "arsenlosenko",
                 "repo": "python-ripple-lib",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "json",
+                  "json-rpc",
+                  "python",
+                  "ripple",
+                  "ripple-data"
+                ]
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -163,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standalone RCL-compatible transaction signing and serialization library",
+                "homepage": null,
                 "id": 66310754,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-14T14:13:57Z",
+                "open_issues": 3,
                 "owner": "ripple",
                 "repo": "ripple-libpp",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -179,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ripple Client Ruby Gem",
+                "homepage": null,
                 "id": 14187691,
                 "language": "Ruby",
+                "license": "ISC",
                 "last_commit": "2014-01-07T00:39:05Z",
+                "open_issues": 1,
                 "owner": "kevinejohn",
                 "repo": "ripple-lib-rpc-ruby",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -195,12 +283,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Swift iOS interface to the Ripple Consensus Ledger.",
+                "homepage": null,
                 "id": 97887651,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-08-04T18:24:46Z",
+                "open_issues": 0,
                 "owner": "xasos",
                 "repo": "RippleKit",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ios-sdk",
+                  "ripple",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -211,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Ripple client protocol in Haskell",
+                "homepage": null,
                 "id": 9570851,
                 "language": "Haskell",
+                "license": "ISC",
                 "last_commit": "2015-07-04T21:30:41Z",
+                "open_issues": 1,
                 "owner": "singpolyma",
                 "repo": "ripple-haskell",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             }
@@ -234,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A UI for the Ripple payment network built using web technologies",
+                "homepage": null,
                 "id": 6248414,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-05-04T08:09:31Z",
+                "open_issues": 46,
                 "owner": "ripple",
                 "repo": "ripple-client",
-                "stars": 1356
+                "stars": 1356,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -250,12 +357,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A desktop client for the Ripple payment network built using web technologies",
+                "homepage": null,
                 "id": 25710942,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2016-11-02T17:24:40Z",
+                "open_issues": 12,
                 "owner": "ripple",
                 "repo": "ripple-client-desktop",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -266,12 +378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":credit_card: ripple wallet for electron",
+                "homepage": null,
                 "id": 98654734,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-28T09:34:58Z",
+                "open_issues": 3,
                 "owner": "devjin0617",
                 "repo": "ripplectron",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -282,12 +399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RippleCharts.com Charting Website",
+                "homepage": null,
                 "id": 10594566,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-04-23T18:21:08Z",
+                "open_issues": 2,
                 "owner": "ripple-unmaintained",
                 "repo": "ripplecharts",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -298,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ripple iOS Client",
+                "homepage": null,
                 "id": 14247737,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2014-06-10T20:00:51Z",
+                "open_issues": 1,
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-client-ios",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -314,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 8103102,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-10-08T23:37:34Z",
+                "open_issues": 7,
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-graph",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             }
@@ -337,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " SQL database as a canonical source of historical data",
+                "homepage": null,
                 "id": 22237229,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-11-23T18:07:29Z",
+                "open_issues": 21,
                 "owner": "ripple",
                 "repo": "rippled-historical-database",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -353,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Ripplecharts API (DEPRECATED)",
+                "homepage": null,
                 "id": 17228368,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-11-24T19:20:16Z",
+                "open_issues": 8,
                 "owner": "ripple",
                 "repo": "ripple-data-api",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -369,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server for storing persistent data for Ripple clients",
+                "homepage": "https://ripple.com/wiki/Blobvault",
                 "id": 6258339,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-11-23T18:26:41Z",
+                "open_issues": 6,
                 "owner": "ripple",
                 "repo": "ripple-blobvault",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -385,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple multithreaded vanity generator for the ripple p2p network",
+                "homepage": null,
                 "id": 9333789,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2013-04-11T03:19:37Z",
+                "open_issues": 3,
                 "owner": "CodeShark",
                 "repo": "RippleGen",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -401,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for executing transactions on the Ripple network",
+                "homepage": null,
                 "id": 21583515,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2015-05-03T17:05:07Z",
+                "open_issues": 8,
                 "owner": "rubblelabs",
                 "repo": "tx",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -417,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple PHP federation endpoint with a static JSON dataset",
+                "homepage": null,
                 "id": 11554720,
                 "language": "PHP",
+                "license": "ISC",
                 "last_commit": "2013-11-08T22:44:04Z",
+                "open_issues": 0,
                 "owner": "ripple-unmaintained",
                 "repo": "federation-php",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -433,12 +595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An embeddable widget for paying with Ripple.",
+                "homepage": null,
                 "id": 16403192,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-02-01T01:27:03Z",
+                "open_issues": 1,
                 "owner": "emschwartz",
                 "repo": "ripple-donate-widget",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -449,12 +616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ripple/federation-php for Python.",
+                "homepage": null,
                 "id": 15032011,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-06-24T21:28:59Z",
+                "open_issues": 0,
                 "owner": "miracle2k",
                 "repo": "ripple-federation-python",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -465,12 +637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rails integration for Ripple payment notifications.",
+                "homepage": "https://rubygems.org/gems/ripple-rails",
                 "id": 9229949,
                 "language": "Ruby",
+                "license": "ISC",
                 "last_commit": "2013-04-26T12:41:01Z",
+                "open_issues": 0,
                 "owner": "singpolyma",
                 "repo": "ripple-rails",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             }
@@ -494,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "java API for the stellar network",
+                "homepage": null,
                 "id": 13008522,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2015-02-15T23:27:53Z",
+                "open_issues": 7,
                 "owner": "pmarches",
                 "repo": "jStellarAPI",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             }
@@ -517,12 +699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple multithreaded vanity generator for the ripple p2p network",
+                "homepage": null,
                 "id": 9333789,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2013-04-11T03:19:37Z",
+                "open_issues": 3,
                 "owner": "CodeShark",
                 "repo": "RippleGen",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -533,12 +720,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ripple Helpers",
+                "homepage": "http://ripple.com",
                 "id": 10525166,
                 "language": "AppleScript",
+                "license": null,
                 "last_commit": "2014-01-21T19:22:47Z",
+                "open_issues": 0,
                 "owner": "vhpoet",
                 "repo": "ripple-helpers",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             }
@@ -552,15 +744,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:20.856Z",
+    "last_updated": "2026-08-29T04:50:24.433Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Ripple resources",
+      "homepage": "http://ripple.com",
       "id": 14434679,
       "language": null,
+      "license": null,
       "last_commit": "2021-07-02T15:40:31Z",
+      "open_issues": 2,
       "owner": "vhpoet",
       "repo": "awesome-ripple",
-      "stars": 200
+      "stars": 200,
+      "topics": [
+        "awesome",
+        "ripple"
+      ]
     },
     "original_repository_sha": "2e6ecb224040102b259d08315050b2f01233c31c",
     "enhanced_repository": "enhansome/enhansome-ripple",
