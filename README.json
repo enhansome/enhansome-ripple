@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 2724167,
                 "language": "C++",
-                "last_commit": "2026-08-28T01:22:29Z",
+                "last_commit": "2026-08-29T00:18:16Z",
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5191
+                "stars": 5190
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
             },
@@ -552,7 +552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:20.546Z",
+    "last_updated": "2026-08-29T03:23:20.856Z",
     "original_repository_info": {
       "archived": false,
       "id": 14434679,
