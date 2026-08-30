@@ -345,7 +345,7 @@
                 "open_issues": 46,
                 "owner": "ripple",
                 "repo": "ripple-client",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:38:40.154Z",
+    "last_updated": "2026-08-30T23:56:22.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
