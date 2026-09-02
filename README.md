@@ -56,13 +56,13 @@ Pull requests are more than welcome.
 
 ###### Rippled - The Guy!
 
-* [rippled](https://github.com/ripple/rippled/) ⭐ 5,192 | 🐛 969 | 🌐 C++ | 📅 2026-09-01: Ripple peer-to-peer network daemon
+* [rippled](https://github.com/ripple/rippled/) ⭐ 5,189 | 🐛 968 | 🌐 C++ | 📅 2026-09-02: Ripple peer-to-peer network daemon
 * [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) ⭐ 76 | 🐛 1 | 🌐 Shell | 📅 2026-08-07 - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 * [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) ⭐ 24 | 🐛 0 | 🌐 Shell | 📅 2022-01-04 - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
 ###### Libs - Libraries for talking to the Ripple API
 
-* [ripple-lib](https://github.com/ripple/ripple-lib/) ⭐ 1,328 | 🐛 248 | 🌐 TypeScript | 📅 2026-09-01: Java Script
+* [ripple-lib](https://github.com/ripple/ripple-lib/) ⭐ 1,328 | 🐛 248 | 🌐 TypeScript | 📅 2026-09-02: Java Script
 * [ripple-lib-java](https://github.com/ripple/ripple-lib-java/) ⭐ 128 | 🐛 36 | 🌐 Java | 📅 2017-02-21: Java
 * [rubblelabs/ripple](https://github.com/rubblelabs/ripple) ⚠️ Archived: Go packages to interact with the Ripple protocol
 * [ripple-rest](https://github.com/ripple/ripple-rest) ⚠️ Archived: A RESTful API for submitting payments and monitoring accounts on the Ripple Network
@@ -166,4 +166,4 @@ Pull requests are more than welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
