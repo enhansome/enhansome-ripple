@@ -56,14 +56,14 @@ Pull requests are more than welcome.
 
 ###### Rippled - The Guy!
 
-* [rippled](https://github.com/ripple/rippled/) ⭐ 5,189 | 🐛 968 | 🌐 C++ | 📅 2026-09-02: Ripple peer-to-peer network daemon
+* [rippled](https://github.com/ripple/rippled/) ⭐ 5,188 | 🐛 962 | 🌐 C++ | 📅 2026-09-03: Ripple peer-to-peer network daemon
 * [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) ⭐ 76 | 🐛 1 | 🌐 Shell | 📅 2026-08-07 - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 * [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) ⭐ 24 | 🐛 0 | 🌐 Shell | 📅 2022-01-04 - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
 ###### Libs - Libraries for talking to the Ripple API
 
-* [ripple-lib](https://github.com/ripple/ripple-lib/) ⭐ 1,328 | 🐛 248 | 🌐 TypeScript | 📅 2026-09-02: Java Script
-* [ripple-lib-java](https://github.com/ripple/ripple-lib-java/) ⭐ 128 | 🐛 36 | 🌐 Java | 📅 2017-02-21: Java
+* [ripple-lib](https://github.com/ripple/ripple-lib/) ⭐ 1,327 | 🐛 250 | 🌐 TypeScript | 📅 2026-09-03: Java Script
+* [ripple-lib-java](https://github.com/ripple/ripple-lib-java/) ⭐ 127 | 🐛 36 | 🌐 Java | 📅 2017-02-21: Java
 * [rubblelabs/ripple](https://github.com/rubblelabs/ripple) ⚠️ Archived: Go packages to interact with the Ripple protocol
 * [ripple-rest](https://github.com/ripple/ripple-rest) ⚠️ Archived: A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 * [ripple-python](https://github.com/miracle2k/ripple-python/) ⭐ 48 | 🐛 6 | 🌐 Python | 📅 2018-01-03: Python Lib
@@ -80,9 +80,9 @@ Pull requests are more than welcome.
 * [ripple-client](https://github.com/ripple/ripple-client/) ⚠️ Archived: Web client
 * [ripple-client-desktop](https://github.com/ripple/ripple-client-desktop) ⚠️ Archived: Desktop client
 * [Ripplectron](https://github.com/devjin0617/ripplectron) ⭐ 52 | 🐛 3 | 🌐 JavaScript | 📅 2017-11-28: Desktop client for Electron
-* [ripplecharts](https://github.com/ripple/ripplecharts/) ⭐ 33 | 🐛 2 | 🌐 JavaScript | 📅 2015-04-23: RippleCharts.com Charting Website
 * [ripple-client-ios](https://github.com/ripple-unmaintained/ripple-client-ios) ⭐ 32 | 🐛 1 | 🌐 Objective-C | 📅 2014-06-10: iOS client
-* [ripple-graph](https://github.com/ripple-unmaintained/ripple-graph) ⭐ 23 | 🐛 7 | 🌐 JavaScript | 📅 2014-10-08: Ripple graph
+* [ripplecharts](https://github.com/ripple/ripplecharts/) ⭐ 32 | 🐛 2 | 🌐 JavaScript | 📅 2015-04-23: RippleCharts.com Charting Website
+* [ripple-graph](https://github.com/ripple-unmaintained/ripple-graph) ⭐ 22 | 🐛 7 | 🌐 JavaScript | 📅 2014-10-08: Ripple graph
 * [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
 * [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 
@@ -90,11 +90,11 @@ Pull requests are more than welcome.
 
 * [rippled-historical-database](https://github.com/ripple/rippled-historical-database) ⭐ 103 | 🐛 21 | 🌐 JavaScript | 📅 2023-11-23: SQL database as a canonical source of historical data in Ripple
 * [ripple-data-api](https://github.com/ripple/ripple-data-api) ⚠️ Archived
-* [ripple-blobvault](https://github.com/ripple/ripple-blobvault) ⭐ 37 | 🐛 6 | 🌐 JavaScript | 📅 2023-11-23: Server for storing persistent data for Ripple clients
+* [ripple-blobvault](https://github.com/ripple/ripple-blobvault) ⭐ 36 | 🐛 6 | 🌐 JavaScript | 📅 2023-11-23: Server for storing persistent data for Ripple clients
 * [Ripple Gen](https://github.com/CodeShark/RippleGen/) ⭐ 26 | 🐛 3 | 🌐 C++ | 📅 2013-04-11
 * [rubblelabs/tx](https://github.com/rubblelabs/tx) ⭐ 18 | 🐛 8 | 🌐 Go | 📅 2015-05-03: Tool for executing transactions on the Ripple network
-* [federation-php](https://github.com/ripple-unmaintained/federation-php) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2013-11-08: Simple PHP federation endpoint with a static JSON dataset
 * [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget) ⭐ 10 | 🐛 1 | 📅 2014-02-01: An embeddable widget for paying with Ripple.
+* [federation-php](https://github.com/ripple-unmaintained/federation-php) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2013-11-08: Simple PHP federation endpoint with a static JSON dataset
 * [federation-python](https://github.com/miracle2k/ripple-federation-python) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2014-06-24: Python module for a simple federation endpoint.
 * [Ripple Rails](https://github.com/singpolyma/ripple-rails/) ⭐ 5 | 🐛 0 | 🌐 Ruby | 📅 2013-04-26
 * [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
@@ -166,4 +166,4 @@ Pull requests are more than welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

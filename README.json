@@ -17,11 +17,11 @@
                 "id": 2724167,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-09-02T22:49:25Z",
-                "open_issues": 968,
+                "last_commit": "2026-09-03T22:17:29Z",
+                "open_issues": 962,
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5189,
+                "stars": 5188,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -99,11 +99,11 @@
                 "id": 9681561,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-02T22:32:07Z",
-                "open_issues": 248,
+                "last_commit": "2026-09-03T22:27:01Z",
+                "open_issues": 250,
                 "owner": "XRPLF",
                 "repo": "xrpl.js",
-                "stars": 1328,
+                "stars": 1327,
                 "topics": [
                   "api",
                   "blockchain",
@@ -139,7 +139,7 @@
                 "open_issues": 36,
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-lib-java",
-                "stars": 128,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -181,7 +181,7 @@
                 "open_issues": 2,
                 "owner": "ripple",
                 "repo": "ripple-rest",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -345,7 +345,7 @@
                 "open_issues": 46,
                 "owner": "ripple",
                 "repo": "ripple-client",
-                "stars": 1357,
+                "stars": 1356,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -394,27 +394,6 @@
             },
             {
               "node_type": "item",
-              "title": "ripplecharts",
-              "description": "RippleCharts.com Charting Website",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RippleCharts.com Charting Website",
-                "homepage": null,
-                "id": 10594566,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2015-04-23T18:21:08Z",
-                "open_issues": 2,
-                "owner": "ripple-unmaintained",
-                "repo": "ripplecharts",
-                "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:20.546Z"
-            },
-            {
-              "node_type": "item",
               "title": "ripple-client-ios",
               "description": "iOS client",
               "children": [],
@@ -436,6 +415,27 @@
             },
             {
               "node_type": "item",
+              "title": "ripplecharts",
+              "description": "RippleCharts.com Charting Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RippleCharts.com Charting Website",
+                "homepage": null,
+                "id": 10594566,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2015-04-23T18:21:08Z",
+                "open_issues": 2,
+                "owner": "ripple-unmaintained",
+                "repo": "ripplecharts",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
+            },
+            {
+              "node_type": "item",
               "title": "ripple-graph",
               "description": "Ripple graph",
               "children": [],
@@ -450,7 +450,7 @@
                 "open_issues": 7,
                 "owner": "ripple-unmaintained",
                 "repo": "ripple-graph",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -499,7 +499,7 @@
                 "open_issues": 8,
                 "owner": "ripple",
                 "repo": "ripple-data-api",
-                "stars": 49,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -520,7 +520,7 @@
                 "open_issues": 6,
                 "owner": "ripple",
                 "repo": "ripple-blobvault",
-                "stars": 37,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -569,27 +569,6 @@
             },
             {
               "node_type": "item",
-              "title": "federation-php",
-              "description": "Simple PHP federation endpoint with a static JSON dataset",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple PHP federation endpoint with a static JSON dataset",
-                "homepage": null,
-                "id": 11554720,
-                "language": "PHP",
-                "license": "ISC",
-                "last_commit": "2013-11-08T22:44:04Z",
-                "open_issues": 0,
-                "owner": "ripple-unmaintained",
-                "repo": "federation-php",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:20.546Z"
-            },
-            {
-              "node_type": "item",
               "title": "Ripple Checkout",
               "description": "An embeddable widget for paying with Ripple.",
               "children": [],
@@ -605,6 +584,27 @@
                 "owner": "emschwartz",
                 "repo": "ripple-donate-widget",
                 "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:50:20.546Z"
+            },
+            {
+              "node_type": "item",
+              "title": "federation-php",
+              "description": "Simple PHP federation endpoint with a static JSON dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Simple PHP federation endpoint with a static JSON dataset",
+                "homepage": null,
+                "id": 11554720,
+                "language": "PHP",
+                "license": "ISC",
+                "last_commit": "2013-11-08T22:44:04Z",
+                "open_issues": 0,
+                "owner": "ripple-unmaintained",
+                "repo": "federation-php",
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:20.546Z"
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:36:38.584Z",
+    "last_updated": "2026-09-03T23:35:02.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
@@ -756,7 +756,7 @@
       "open_issues": 2,
       "owner": "vhpoet",
       "repo": "awesome-ripple",
-      "stars": 201,
+      "stars": 200,
       "topics": [
         "awesome",
         "ripple"
