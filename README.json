@@ -17,8 +17,8 @@
                 "id": 2724167,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-09-03T22:17:29Z",
-                "open_issues": 962,
+                "last_commit": "2026-09-04T21:57:28Z",
+                "open_issues": 959,
                 "owner": "XRPLF",
                 "repo": "rippled",
                 "stars": 5188,
@@ -50,7 +50,7 @@
                 "open_issues": 1,
                 "owner": "WietseWind",
                 "repo": "docker-xrpld",
-                "stars": 76,
+                "stars": 75,
                 "topics": [
                   "xrp-ledger"
                 ]
@@ -99,7 +99,7 @@
                 "id": 9681561,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-03T22:27:01Z",
+                "last_commit": "2026-09-04T01:28:27Z",
                 "open_issues": 250,
                 "owner": "XRPLF",
                 "repo": "xrpl.js",
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:35:02.779Z",
+    "last_updated": "2026-09-04T23:25:00.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
