@@ -21,7 +21,7 @@
                 "open_issues": 979,
                 "owner": "XRPLF",
                 "repo": "rippled",
-                "stars": 5193,
+                "stars": 5195,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -103,7 +103,7 @@
                 "open_issues": 240,
                 "owner": "XRPLF",
                 "repo": "xrpl.js",
-                "stars": 1327,
+                "stars": 1328,
                 "topics": [
                   "api",
                   "blockchain",
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:38:46.396Z",
+    "last_updated": "2026-09-20T23:36:09.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
