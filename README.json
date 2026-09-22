@@ -17,8 +17,8 @@
                 "id": 2724167,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-09-21T21:05:12Z",
-                "open_issues": 977,
+                "last_commit": "2026-09-22T23:19:29Z",
+                "open_issues": 978,
                 "owner": "XRPLF",
                 "repo": "rippled",
                 "stars": 5196,
@@ -99,8 +99,8 @@
                 "id": 9681561,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-16T17:40:39Z",
-                "open_issues": 240,
+                "last_commit": "2026-09-22T20:46:58Z",
+                "open_issues": 206,
                 "owner": "XRPLF",
                 "repo": "xrpl.js",
                 "stars": 1329,
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:47.056Z",
+    "last_updated": "2026-09-22T23:52:17.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
