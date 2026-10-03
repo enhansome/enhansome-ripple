@@ -17,8 +17,8 @@
                 "id": 2724167,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-10-03T00:30:00Z",
-                "open_issues": 1084,
+                "last_commit": "2026-10-03T01:27:15Z",
+                "open_issues": 1085,
                 "owner": "XRPLF",
                 "repo": "rippled",
                 "stars": 5218,
@@ -486,7 +486,7 @@
             {
               "node_type": "item",
               "title": "ripple-data-api",
-              "description": null,
+              "description": "ripple/ripple-data-api",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -528,7 +528,7 @@
             {
               "node_type": "item",
               "title": "Ripple Gen",
-              "description": null,
+              "description": "CodeShark/RippleGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,7 +633,7 @@
             {
               "node_type": "item",
               "title": "Ripple Rails",
-              "description": null,
+              "description": "singpolyma/ripple-rails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -667,7 +667,7 @@
             {
               "node_type": "item",
               "title": "jRippleAPI",
-              "description": null,
+              "description": "pmarches/jStellarAPI",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -716,7 +716,7 @@
             {
               "node_type": "item",
               "title": "Ripple Helpers",
-              "description": null,
+              "description": "vhpoet/ripple-helpers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:46:04.132Z",
+    "last_updated": "2026-10-03T05:05:30.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
