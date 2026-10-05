@@ -17,8 +17,8 @@
                 "id": 2724167,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-10-03T21:41:28Z",
-                "open_issues": 1087,
+                "last_commit": "2026-10-04T17:09:35Z",
+                "open_issues": 1088,
                 "owner": "XRPLF",
                 "repo": "rippled",
                 "stars": 5218,
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:07:48.329Z",
+    "last_updated": "2026-10-05T00:13:37.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ripple resources",
